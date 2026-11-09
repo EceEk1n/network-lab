@@ -1,4 +1,4 @@
-<img width="1042" height="597" alt="Ekran görüntüsü 2026-11-09 152530" src="https://github.com/user-attachments/assets/e4f6b089-3cbd-49e4-a1bd-bf654ff187c7" /># network-lab
+network-lab
 Labs, notes, and projects from my CCNA journey. Focus: Layer 1-2 networking.
 
 ## Week 1
